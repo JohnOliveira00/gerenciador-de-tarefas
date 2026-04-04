@@ -12,5 +12,6 @@ Este projeto permite adicionar tarefas de forma prática, com um design moderno 
 - CSS3
 - JavaScript
 - Supabase (banco de dados)
+
   
 Acesso URL: https://gerenciador-de-tarefas-kohl-chi.vercel.app/
