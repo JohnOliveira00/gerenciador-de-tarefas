@@ -1,5 +1,5 @@
 # Gerenciador de Tarefas
-
+ 
 Aplicação simples de gerenciamento de tarefas desenvolvida com HTML, CSS e JavaScript.
 
 ##  Sobre o projeto
