@@ -10,7 +10,7 @@ Este projeto permite adicionar tarefas de forma prática, com um design moderno 
 
 - HTML5
 - CSS3
-- JavaScript
+- JavaScript 
 - Supabase (banco de dados)
  
    
